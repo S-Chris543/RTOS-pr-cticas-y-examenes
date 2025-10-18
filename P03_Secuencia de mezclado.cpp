@@ -1,6 +1,4 @@
 #include <Arduino.h>
-#include "WiFi.h"
-
 
 #define LED_VA 15
 #define LED_VB 2
@@ -168,5 +166,6 @@ void VACIADO(void *parameter){
 
 void loop()
 {
+
 
 }
