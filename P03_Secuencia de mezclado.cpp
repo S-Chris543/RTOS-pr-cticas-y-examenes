@@ -1,3 +1,9 @@
+// Práctica 3: Secuencia de vaciado
+// Christian Emmanuel Castruita Alaniz 
+// Manuel García Torres 
+// Axel Perea Pinedo 
+// 3MM6
+
 #include <Arduino.h>
 
 #define LED_VA 15
@@ -169,3 +175,4 @@ void loop()
 
 
 }
+
