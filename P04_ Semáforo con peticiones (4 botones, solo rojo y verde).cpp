@@ -1,4 +1,4 @@
-// Práctica 2: Semáforo solo con temporizadores. 
+// Práctica 4: Semáforo con peticiones (4 botones, solo rojo y verde).cpp 
 // Christian Emmanuel Castruita Alaniz 
 // Manuel García Torres 
 // Axel Perea Pinedo 
@@ -96,4 +96,5 @@ void setup() {
 
 void loop() {
   // El control del semáforo se realiza completamente desde el timer
+
 }
