@@ -1,6 +1,3 @@
 # RTOS-prácticas-y-examenes
 
-Christian Emmanuel Castruita Alaniz
-Manuel García Torres
-Axel Perea Pinedo
-3MM6  
+Christian Emmanuel Castruita Alaniz--Manuel García Torres--Axel Perea Pinedo--3MM6  
