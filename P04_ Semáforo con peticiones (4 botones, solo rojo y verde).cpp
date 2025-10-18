@@ -95,6 +95,5 @@ void setup() {
 }
 
 void loop() {
-  // El control del semáforo se realiza completamente desde el timer
-
 }
+
