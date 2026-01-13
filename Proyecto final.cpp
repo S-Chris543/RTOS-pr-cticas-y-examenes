@@ -128,7 +128,7 @@ void TaskSensoresPID(void *pvParameters) {
   }
 }
 
-// Interfaz
+// HMI
 void TaskInterfaz(void *pvParameters) {
   static unsigned long lastUpdate = 0;
 
@@ -316,4 +316,5 @@ void setup() {
 void loop() {
   // Vacio porque la chamba se la avienta free rtos
 }
+
 
